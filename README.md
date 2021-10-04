@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering/ Machine learning/ Data science/ Genomics/ Cyber security/ web development
 - 🌱 I’m currently learning Computer Science at Princeton University
 - 💞️ I’m looking to collaborate on any great idea
-- 🎓 Peronal Project - https://ghanawrites.github.io/ghanawrites/ 
+- 🎓 Peronal Project - https://ghanawrites.github.io/ghanawrites/   GhanaWrites 
 - 📫 How to reach me pascalnabare@princeton.edu / https://www.linkedin.com/in/pascal-nabare-60062a193/
 
 <!---
