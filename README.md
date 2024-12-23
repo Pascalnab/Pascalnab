@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pascalnab (Pascal Nabare)
-- 👀 I’m interested in software engineering/ Machine learning/ Data science/ Genomics/ Cyber security/ web development
+- 👀 I’m interested in software engineering/ Distributed Systems/ Machine learning/ Data science/ Cyber security
 - 🌱 I’m currently learning Computer Science at Princeton University
 - 💞️ I’m looking to collaborate on any great idea
 - 🎓 Personal Project - https://ghanawrites.github.io/ghanawrites/   GhanaWrites 
